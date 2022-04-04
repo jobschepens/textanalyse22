@@ -69,7 +69,9 @@ Vorgesehen ist als Abschluss des Seminars eine benotete Hausarbeit, wobei die No
 Die Hausarbeit soll max. 10 Seiten lang sein (zzgl. Gliederung, Literaturverzeichnis, Anhang). Die Abgabefrist ist der 15.09.22. Die Hausarbeit ist per E-Mail als PDF abzugeben (inkl. eidesstattlicher Erklärung).
 
 [Leitfaden Texterörterung klassischer Text](https://jobschepens.github.io/textanalyse22/Leitfaden_Texterörterung_klassischer_Text.docx)
+
 [Leitfaden zur Anfertigung einer Hausarbeit](https://jobschepens.github.io/textanalyse22/Leitfaden_zur_Anfertigung_einer_Hausarbeit.docx)
+
 [Literaturliste](https://jobschepens.github.io/textanalyse22/Literaturliste.docx)
 
 
