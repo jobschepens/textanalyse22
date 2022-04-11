@@ -15,6 +15,7 @@ Themen
 - Textsorten
 - Theorie-Praxiskonflikt
 - Fragen zur Seminarleistung
+- [Folien](https://jobschepens.github.io/textanalyse22/folien/02_Wissenschaftstheorie.pptx)
 
 Vorbereitung:
 - Laden Sie sich die Seminarliteratur als ebook über die UB herunter!
