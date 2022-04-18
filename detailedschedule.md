@@ -11,8 +11,12 @@ Themen
 ## Week  2 (12.04.22)
 
 Themen
-- Lesetechniken + Struktur eines wissenschaftlichen Artikels 
-- Textsorten
+- Wissenschaftssystem
+- Konkurrierende Geltungsbehauptungen
+- Grenzen wissenschaftlichen Wissens
+- Die wissenschaftliche Methode 
+- Aktuelle Strömungen in der Wissenschaft
+- Gute wissenschaftliche Praxis
 - Theorie-Praxiskonflikt
 - Fragen zur Seminarleistung
 - [Folien](https://jobschepens.github.io/textanalyse22/folien/02_Wissenschaftstheorie.pptx)
@@ -22,24 +26,23 @@ Vorbereitung:
 - Durchlesen Syllabus + Moodle
 - 5p Vogel, Peter (1999): Der Theorie-Praxis-Konflikt in der Pädagogik als Deutungsmuster für den Studienalltag – oder Was lernt man eigentlich im wissenschaftlichen Studium? In: Pädagogischer Blick 7. Jg., Heft 1, S. 34-40
 
-
-Zum nachlesen:
-- 4p Rost, Friedrich (2008): 9.2 Lesetechniken. In: Lern- und Arbeitstechniken für das Studium. 5., aktualisierte und erweiterte Auflage. Wiesbaden: VS Verlag für Sozialwissenschaften, S. 182-186. 
-- 6p Stary, Joachim/ Kretschmer, Horst (1994): 1.1 Textsorten. In: Umgang mit wissenschaftlicher Literatur. Eine Arbeitshilfe für das sozial- und geisteswissenschaftliche Studium. Berlin: Cornelsen Scriptor (= Studium kompakt Lesemethoden, schneller lesen), S. 14-33.
+Zum nachlesen
+- Döring, N., & Bortz, J. (2016). Teil I, Kapitel 3.1: Wissenschaftlichkeit und wissenschaftliche Qualität. (S. 84-93). In: Forschungsmethoden und Evaluation. Springer. 
 
 
 ## Week  3 (19.04.22)
 
 Themen
-- Wissenschaftssystem
-- Konkurrierende Geltungsbehauptungen
-- Grenzen wissenschaftlichen Wissens
-- Die wissenschaftliche Methode 
-- Aktuelle Strömungen in der Wissenschaft
-- Gute wissenschaftliche Praxis
+- Lesetechniken + Struktur eines wissenschaftlichen Artikels 
+- Textsorten
+- [Folien](https://jobschepens.github.io/textanalyse22/folien/03_Textarten&Lesetechniken.pptx)
 
 Vorbereitung: 
-- "Preview & Questions" PQ4R Schritt 1 und 2: Döring, N., & Bortz, J. (2016). Teil I, Kapitel 3.1: Wissenschaftlichkeit und wissenschaftliche Qualität. (S. 84-93). In: Forschungsmethoden und Evaluation. Springer. 
+- Wahl eines Kapitel aus  Reinders (2015). Empirische Bildungsforschung - [UB Link](https://katalog.ub.tu-dortmund.de/id/ir01388a:ubd.lobid:990207878740206441)
+
+Zum nachlesen:
+- 4p Rost, Friedrich (2008): 9.2 Lesetechniken. In: Lern- und Arbeitstechniken für das Studium. 5., aktualisierte und erweiterte Auflage. Wiesbaden: VS Verlag für Sozialwissenschaften, S. 182-186. 
+- 6p Stary, Joachim/ Kretschmer, Horst (1994): 1.1 Textsorten. In: Umgang mit wissenschaftlicher Literatur. Eine Arbeitshilfe für das sozial- und geisteswissenschaftliche Studium. Berlin: Cornelsen Scriptor (= Studium kompakt Lesemethoden, schneller lesen), S. 14-33.
 
 
 ## Week  4 (26.04.22)
@@ -50,8 +53,8 @@ Themen
 - Wie recherchiere ich inhaltlich sinnvoll?
 
 Vorbereitung: 
-- Wahl eines Kapitel aus  Reinders (2015). Empirische Bildungsforschung - [UB Link](https://katalog.ub.tu-dortmund.de/id/ir01388a:ubd.lobid:990207878740206441)
-- "Preview & Questions" PQ4R Schritt 1 und 2: Gewaehlte Kapitel. 
+- Lesen eines Kapitel aus  Reinders (2015). Empirische Bildungsforschung - [UB Link](https://katalog.ub.tu-dortmund.de/id/ir01388a:ubd.lobid:990207878740206441)
+
 
 Zum nachlesen:
 - Döring, N., & Bortz, J. (2016). Teil 2, Kapitel 5 Forschungsthema und 6.1 Literaturrecherche. In: Forschungsmethoden und Evaluation. Springer. 
