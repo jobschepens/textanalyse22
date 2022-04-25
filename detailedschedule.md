@@ -51,10 +51,10 @@ Themen
 - Wahl eines Forschungsthemas
 - Fragestellungen
 - Wie recherchiere ich inhaltlich sinnvoll?
+- [Folien](https://jobschepens.github.io/textanalyse22/folien/04_Literaturrecherche.pptx)
 
 Vorbereitung: 
 - Lesen eines Kapitel aus  Reinders (2015). Empirische Bildungsforschung - [UB Link](https://katalog.ub.tu-dortmund.de/id/ir01388a:ubd.lobid:990207878740206441)
-
 
 Zum nachlesen:
 - Döring, N., & Bortz, J. (2016). Teil 2, Kapitel 5 Forschungsthema und 6.1 Literaturrecherche. In: Forschungsmethoden und Evaluation. Springer. 
