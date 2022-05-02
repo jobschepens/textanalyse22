@@ -69,6 +69,7 @@ Themen
 - Zitation
 - Zitationsstile
 - Literaturverwaltung
+- [Folien](https://jobschepens.github.io/textanalyse22/folien/05_Literaturverwaltung&Zitation.pptx)
 
 Zum nachlesen:
 - 8p Leitfaden zur wissenschaftlichen Zitation
