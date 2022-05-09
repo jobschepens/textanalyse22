@@ -86,6 +86,7 @@ Abgabe bis 09.05:
 
 Themen
 - Grundlagen Texthermeneutik (theoretischer Erziehungswissenschaft)
+- [Folien](https://jobschepens.github.io/textanalyse22/folien/06_Plagiat&Einführung in Hermeneutik.pptx)
 
 Vorzubereitende Texte 
 - "Preview & Questions" PQ4R Schritt 1 und 2: 23p Klafki, Wolfgang (2001): Hermeneutische Verfahren in der Erziehungswissenschaft (1971). In: Rittelmeyer, Christian/ Parmentier, Michael (Hrsg.): Einführung in die pädagogische Hermeneutik. Mit einem Beitrag von Wolfgang Klafki. Darmstadt: Wissenschaftliche Buchgesellschaft. S. 125-148
