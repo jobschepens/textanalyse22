@@ -96,6 +96,7 @@ Vorzubereitende Texte
 
 Themen
 - Besprechung Durkheim
+- [Folien](https://jobschepens.github.io/textanalyse22/folien/07_Textanalyse_TextI_Einführung.pptx)
 
 Vorzubereitende Texte
 - Durkheim, E. (2008). Erziehung und Gesellschaft. In F. Baumgart (Hrsg.). Theorien der Sozialisation (S.44-55). Julius Klinkhardt.
