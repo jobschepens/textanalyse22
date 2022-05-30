@@ -119,6 +119,7 @@ Abgabe bis 29.05:
 
 Themen
 - Besprechung Erstversionen 
+- [Folien](https://jobschepens.github.io/textanalyse22/folien/09_Textanalyse_TextI_Besprechung.pptx)
 
 Abgabe bis 6.06:
 - **Vorleistung 3: Finale Version Textanalyse Durkheim**
