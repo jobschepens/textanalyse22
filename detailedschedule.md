@@ -135,6 +135,7 @@ Themen
 
 Themen
 - Empirische Texte: Grundlagen
+- [Folien](https://jobschepens.github.io/textanalyse22/folien/10_Empirische Bildungsforschung_Einführung.pptx)
 
 
 ## Week 11 (21.06.22)
