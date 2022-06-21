@@ -142,6 +142,7 @@ Themen
 
 Themen
 - Textanalyse empirischen Text
+- [Folien](https://jobschepens.github.io/textanalyse22/folien/11_Textanalyse_Text2_Einführung.pptx)
 
 Vorzubereitende Texte
 - ein Text aus der Liste
