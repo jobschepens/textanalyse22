@@ -164,6 +164,7 @@ Abgabe bis 3.07:
 
 Themen
 - Textanalyse Text 2: Besprechung & Überarbeitung
+- [Folien](https://jobschepens.github.io/textanalyse22/folien/13_Textanalyse_Text2_Besprechung.pptx)
 
 Abgabe bis 10.07:
 - **Vorleistung 4: Finale Version Textanalyse Empirisch**
