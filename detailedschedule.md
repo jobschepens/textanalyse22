@@ -178,7 +178,3 @@ Individualtermine zur Besprechung der Hausarbeitsthemen
 ## 15.09.2021 
 
 - Abgabefrist Hausarbeit
-
-
-
-
